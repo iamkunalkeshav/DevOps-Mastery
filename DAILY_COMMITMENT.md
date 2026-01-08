@@ -11,7 +11,7 @@ Tracking my DevOps learning journey with daily commits starting from **January 8
 
 - **Current Streak**: Starting today!
 - **Longest Streak Goal**: 365 days
-- **Total Commits**: 1+ (and counting)
+- **Total Commits**: 7++ (and counting)
 
 ## 📈 Daily Commitment Log
 
@@ -20,7 +20,7 @@ Tracking my DevOps learning journey with daily commits starting from **January 8
 | Date | Day | Topic | Commits | Status |
 |------|-----|-------|---------|--------|
 | Jan 8 | Wednesday | DevOps Setup & Repository Structure | 1 | ✅ Complete |
-| Jan 9 | Thursday | Docker Basics | TBD | ⏳ Planned |
+| Jan 9 | Thursday | Docker Basics | 6 | ✅ Complete |
 | Jan 10 | Friday | Kubernetes Introduction | TBD | ⏳ Planned |
 | Jan 11 | Saturday | CI/CD Pipelines | TBD | ⏳ Planned |
 | Jan 12 | Sunday | Infrastructure as Code | TBD | ⏳ Planned |
